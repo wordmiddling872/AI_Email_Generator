@@ -113,5 +113,4 @@ python -m unittest discover -s tests -v
 - If clipboard copy fails, the OS clipboard backend may be unavailable in the current session.
 
 ## License
-
 Add your preferred license before publishing publicly.
