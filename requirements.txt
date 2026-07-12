@@ -1,0 +1,6 @@
+streamlit>=1.58,<2
+ollama>=0.6,<1
+python-dotenv>=1.0,<2
+reportlab>=4.0,<5
+python-docx>=1.1,<2
+pyperclip>=1.9,<2
